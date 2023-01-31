@@ -1,0 +1,7 @@
+C:/Users/filka428/tnm094/build/CMakeFiles/rendering.dir
+C:/Users/filka428/tnm094/build/CMakeFiles/particlesystem.dir
+C:/Users/filka428/tnm094/build/CMakeFiles/unittest.dir
+C:/Users/filka428/tnm094/build/CMakeFiles/application.dir
+C:/Users/filka428/tnm094/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/filka428/tnm094/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/filka428/tnm094/build/CMakeFiles/ZERO_CHECK.dir
